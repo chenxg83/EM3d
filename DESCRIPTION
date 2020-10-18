@@ -1,0 +1,14 @@
+Package: EM3D
+Type: Package
+Title: Generate reflection loss using electromagnetic properties
+Version: 0.1.2
+Author: Xuegang Chen
+Maintainer: Xuegang Chen <chenxg83@zju.edu.cn>
+Description: This packages with creat variations of reflection loss as functions of thickness and frequency
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Imports: tidyverse
+RoxygenNote: 7.1.0
+Suggests: 
+    testthat (>= 2.1.0)
